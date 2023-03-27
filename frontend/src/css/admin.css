@@ -1,0 +1,13 @@
+.marg5{
+    margin-top: 2%;
+}
+.cont4{
+    border-radius: 10px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+.colXs3border_{
+    border-right: 2px solid black;
+}
